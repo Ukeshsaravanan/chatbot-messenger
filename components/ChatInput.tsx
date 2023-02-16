@@ -79,9 +79,7 @@ const ChatInput = ({chatId}: Props) => {
             </button>
 
         </form>
-        <div>
-            {/*ModalSelection*/}
-        </div>
+        
     </div>
   )
 }
